@@ -28,6 +28,7 @@ This approach allowed for secure and fair transactions, preventing losses from p
 - **Backend :** Developed the backend for [website url](https://app.da1realtech.com/) and admin panel .
 - **Node.js & Express.js :** Utilized Node.js for backend services and Express.js for API development.
 - **Firebase Integration :** Integrated Firebase for push notifications.
+- **Database Management :** Used MongoDB for database management
 - **Smart Contracts :** Deployed smart contracts on sepolia (testnet) and Ethereum mainnet for live operations.
   
 ## Role
