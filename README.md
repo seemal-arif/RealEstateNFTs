@@ -30,6 +30,6 @@ This approach allowed for secure and fair transactions, preventing losses from p
 - **Firebase Integration :** Integrated Firebase for push notifications.
 - **Smart Contracts :** Deployed smart contracts on sepolia (testnet) and Ethereum mainnet for live operations.
   
-## Role:
+## Role
 - **Lead Blockchain & Backend Developer**: Led the blockchain and backend development of the project.
 - **Client Communication & Requirement Gathering**: Managed client communication and gathered project requirements.
